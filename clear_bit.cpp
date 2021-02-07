@@ -20,7 +20,7 @@ int main()
  int temp;
  temp=a&mask;
 
- std::cout<<"Number obtained after clearing bit "<<i<<" of "<<a<<" is "<<temp<<std::endl;
+ std::cout<<"Number obtained after clearing bit at given position "<<i<<" of "<<a<<" is "<<temp<<std::endl;
 }
 
 
